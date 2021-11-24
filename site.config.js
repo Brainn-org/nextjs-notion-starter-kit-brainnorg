@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lucas Cervera',
-  domain: 'lucascervera.com',
-  author: 'Lucas Cervera',
+  name: 'Brainn',
+  domain: 'Brainn',
+  author: 'Brainn',
 
   // open graph metadata (optional)
-  description: 'Emprendedor Startups Innovación Diseño de Negocio',
+  description: 'Metodología de creación de negocios innovadores',
   socialImageTitle: 'Lucas Cervera',
   socialImageSubtitle: 'Lucas Cervera',
 

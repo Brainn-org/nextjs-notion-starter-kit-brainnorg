@@ -26,7 +26,7 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
       
             <script
             async
-            src={`https://www.googletagmanager.com/gtag/js?id=G-PQQY873JFC`}
+            src={`https://www.googletagmanager.com/gtag/js?id=G-EYGEZ9XQVB`}
           />
           <script
             dangerouslySetInnerHTML={{
